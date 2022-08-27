@@ -1,12 +1,16 @@
 ---
-published: false
+published: true
 ---
-## LED Cube ## 
+# LED Cube #
 
-### Overview ###
+## Overview ##
 
 
-1. Hardware Invlolved 
+### Hardware Invlolved 
+
+- Rotary Encoder
+- Adafruit Feather RP2040 
+- 1.2" Bicolor Display w/ Backpack
 
 
 
