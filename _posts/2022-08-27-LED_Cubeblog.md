@@ -1,6 +1,12 @@
 ---
 published: false
 ---
-## A New Post
+## LED Cube ## 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+### Overview ###
+
+
+1. Hardware Invlolved 
+
+
+
